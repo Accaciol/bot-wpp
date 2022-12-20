@@ -1,1 +1,1 @@
-# bot-wpp2
+# bot-wpp
